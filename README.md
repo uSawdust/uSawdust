@@ -7,8 +7,9 @@ Obecnie studentka 2 stopnia na kierunku Druk 3D Materiałów Metalicznych na @AG
 - 🌱 Obecnie rozwijam wiedzę w obszarze grafiki 3D, modelowania i druku oraz automatyzacji tych procesów.
 - 📫 Strona z dokładniejszym opisem projektów: [Link](https://usawdust.github.io/)
 - 🎲 Lubie indie gierki ≽^•⩊•^≼
+<code>
 
-<code>      _/_/     _/_/    _/      _/   _/ _/     _/      _/     _/_/  _/_/_/_/
+           _/_/     _/_/    _/      _/   _/ _/     _/      _/     _/_/  _/_/_/_/
         _/        _/   _/  _/      _/   _/   _/   _/      _/   _/         _/
          _/_/   _/_/_/_/  _/  _/   _/  _/    _/  _/      _/     _/_/     _/
      _/     _/ _/     _/ _/ _/ _/ _/  _/    _/   _/    _/  _/      _/   _/  
