@@ -1,5 +1,5 @@
-## Hejka, tu trociny 🌾
-#### Julia Piśniakowska
+## Trociny 🌾
+#### ࿐ ࿔*:･ﾟ࿐ ࿔*:･ﾟ࿐ ࿔*:･ﾟ
 
 Obecnie studentka 2 stopnia na kierunku Druk 3D Materiałów Metalicznych na @AGH
 
