@@ -8,8 +8,7 @@ Obecnie studentka 2 stopnia na kierunku Druk 3D Materiałów Metalicznych na @AG
 - 📫 Strona z dokładniejszym opisem projektów: [Link](https://usawdust.github.io/)
 - 🎲 Lubie indie gierki ≽^•⩊•^≼
 
-<code>
-           _/_/     _/_/    _/      _/   _/ _/     _/      _/     _/_/  _/_/_/_/
+<code>      _/_/     _/_/    _/      _/   _/ _/     _/      _/     _/_/  _/_/_/_/
         _/        _/   _/  _/      _/   _/   _/   _/      _/   _/         _/
          _/_/   _/_/_/_/  _/  _/   _/  _/    _/  _/      _/     _/_/     _/
      _/     _/ _/     _/ _/ _/ _/ _/  _/    _/   _/    _/  _/      _/   _/  
